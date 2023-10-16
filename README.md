@@ -5,24 +5,24 @@ Acting as a Data analyst of a global IT and business consulting service firm and
 
 
 Data collection 
-Collect the top programming skills from sources like Job postings, Training portals and Surveys 
-Using webscrapping or APIs to collect files(csv, excel) and databases
+* Collect the top programming skills from sources like Job postings, Training portals and Surveys 
+* Using webscrapping or APIs to collect files(csv, excel) and databases
 
 
 Data Wrangling 
-Finding and removing duplicates
-Inputing and removing missing values
-Normalizing data
+* Finding and removing duplicates
+* Inputing and removing missing values
+* Normalizing data
 
 
 
 
-Choose appropriate visualizations to reveal findings to questions 
-Distribution 
-Comparison and relationship
+Choosing appropriate visualizations to reveal findings to questions 
+* Distribution 
+* Comparison and relationship
 
 
-Create dashboard with cognos to make visualization dynamic 
+Creating dashboard with cognos to make visualization dynamic 
 
 Current Tech usage 
 https://dataplatform.cloud.ibm.com/dashboards/bd8d4a0c-0aaa-426c-9d21-2ff6ac90e236/view/5826d6161ebc19926df2f2e4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf 
